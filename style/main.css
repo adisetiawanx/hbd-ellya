@@ -12,7 +12,8 @@ body {
 }
 
 .container {
-  height: 95vh;
+  max-height: 100vh;
+  height: 100vh;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
@@ -25,7 +26,7 @@ body {
   left: 0;
   position: absolute;
   right: 0;
-  top: 15vh;
+  top: 17vh;
 }
 
 .one {
